@@ -1,3 +1,4 @@
+Just so u know this will take a while to get a valid code.
 
 ## Getting Started
 
