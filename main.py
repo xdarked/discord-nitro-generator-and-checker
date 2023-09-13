@@ -2,7 +2,7 @@ import ctypes
 import string
 import os
 import time
-LICNECE = """Made by JPS915 - This will take a while to get a working code."""
+LICNECE = """Made by xdarked - This will take a while to get a working code."""
 
 USE_WEBHOOK = True
 
